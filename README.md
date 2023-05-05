@@ -1,5 +1,16 @@
 # gen2name
 simple name generator
+# Requirements
+- Python 3.7
+- JupyterNotebook
+- numpy
+- pandas
+- pytorch 1.9.0 + cuda or cpu
+- and other utils from python
+
+Надо запустить через юпитер или же можно попробовать через пайтон, но не советую...
+Плюс еще есть HTML готовый формат для анализа и т.д.
+
 
 
 # Задание отборочного тура
